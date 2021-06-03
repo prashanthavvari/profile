@@ -37,6 +37,13 @@ function createPersonalSection(id, skills, selectedFields) {
     }
 }
 
+function showExperience(company, event) {
+    event.preventDefault();
+    let expComponent = document.querySelector('.exp-sec');
+    expComponent && expComponent.remove();
+    new Experience(company, '.main');
+}
+
 function showSkillsSection(el, ele) {
     ele.disabled = true;
     let otherSkills = otherDetails;
