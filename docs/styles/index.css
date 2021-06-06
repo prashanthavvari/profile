@@ -176,6 +176,10 @@ iframe {
     border: 1px solid black;
     border-radius: 50%;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
 }
 .sticky {
     top: 10px;
