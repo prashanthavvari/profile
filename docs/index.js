@@ -36,7 +36,7 @@ const experience = {
     '<h3>Phenom People Pvt Ltd<h3>',
     'My role in Phenom is senior front end developer',
     'The product which i am working in Phenom is a career site generating platform called as CMS',
-    `CMS is a content management system for the career site, that we'll be generating using the platform`,
+    `CMS is a content management system for the career site which we'll be generating using the platform`,
     'We have a variety of widgets which are being used for the career site development',
     'My work is mainly focused on the settings part of the widget where we can manage the data inside the widget',
     '<br>',
